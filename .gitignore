@@ -1,0 +1,16 @@
+# IMPORTANT: if this file was changed please run generate_tslint_exclude.py
+
+# COMMON FILES
+target*
+.idea
+*.iml
+atlassian-ide-plugin.xml
+node_modules*
+*.log
+*.DS_Store
+package-lock.json
+.classpath
+.project
+.settings
+.vscode
+
